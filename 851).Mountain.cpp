@@ -1,5 +1,12 @@
 // leetcode 851 problem statments
 
+// Find the Highest value in the array
+
+// Basic term to know
+// 1). Highest value left and right side small
+// 2). Know left or right any one side proper sorted in descending order
+// 3). If middle value right side element bigger right side move else left side.
+
 #include<iostream>
 #include<vector>
 
